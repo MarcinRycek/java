@@ -1,0 +1,210 @@
+[
+  {
+    "id": "0ae64b9e-32da-4fcc-83b5-81fde7928881",
+    "vehicle": {
+      "id": "1",
+      "price": 100.0,
+      "category": "Bus",
+      "brand": "Volkswagen",
+      "model": "T2",
+      "year": 1985,
+      "plate": "LU123",
+      "attributes": {
+        "seats": 20.0
+      }
+    },
+    "user": {
+      "id": "36bf40b1-5329-4c7d-b6ef-f1e7d01f1b3e",
+      "login": "admin",
+      "password": "$2a$10$/PLOh4vSoYUvxMquvcF7FefTRxA.aGsg0/QpRirYW6BFeHxfoFNMq",
+      "role": "ADMIN"
+    },
+    "rentDate": "2025-04-19T23:09:15.837570200",
+    "returnDate": "2025-04-19T23:09:38.550131300"
+  },
+  {
+    "id": "0d5c00be-1583-4dcf-8359-971ca2702343",
+    "vehicle": {
+      "id": "1",
+      "price": 100.0,
+      "category": "Bus",
+      "brand": "Volkswagen",
+      "model": "T2",
+      "year": 1985,
+      "plate": "LU123",
+      "attributes": {
+        "seats": 20.0
+      }
+    },
+    "user": {
+      "id": "3d56b6e4-9254-43ce-bcd3-37e6c5061309",
+      "login": "user",
+      "password": "$2a$10$bWI8fHjLNoUtHQvejVbRMub3re2EYPkbp0HoEFs.0hPzDhl9MmjXi",
+      "role": "USER"
+    },
+    "rentDate": "2025-04-19T23:15:49.465653500",
+    "returnDate": "2025-04-19T23:20:28.816177500"
+  },
+  {
+    "id": "8292dddd-d56d-45dd-b482-2eaa5c63a9c1",
+    "vehicle": {
+      "id": "1",
+      "price": 100.0,
+      "category": "Bus",
+      "brand": "Volkswagen",
+      "model": "T2",
+      "year": 1985,
+      "plate": "LU123",
+      "attributes": {
+        "seats": 20.0
+      }
+    },
+    "user": {
+      "id": "36bf40b1-5329-4c7d-b6ef-f1e7d01f1b3e",
+      "login": "admin",
+      "password": "$2a$10$/PLOh4vSoYUvxMquvcF7FefTRxA.aGsg0/QpRirYW6BFeHxfoFNMq",
+      "role": "ADMIN"
+    },
+    "rentDate": "2025-04-19T23:22:53.874383400",
+    "returnDate": "2025-04-19T23:23:59.155803400"
+  },
+  {
+    "id": "45dfc9e6-3bc0-4702-b7eb-85d09ebb97d5",
+    "vehicle": {
+      "id": "1",
+      "price": 100.0,
+      "category": "Bus",
+      "brand": "Volkswagen",
+      "model": "T2",
+      "year": 1985,
+      "plate": "LU123",
+      "attributes": {
+        "seats": 20.0
+      }
+    },
+    "user": {
+      "id": "36bf40b1-5329-4c7d-b6ef-f1e7d01f1b3e",
+      "login": "admin",
+      "password": "$2a$10$/PLOh4vSoYUvxMquvcF7FefTRxA.aGsg0/QpRirYW6BFeHxfoFNMq",
+      "role": "ADMIN"
+    },
+    "rentDate": "2025-04-19T23:24:05.717329700",
+    "returnDate": "2025-04-21T18:55:37.535330400"
+  },
+  {
+    "id": "7dc80c80-dccc-424a-8e2d-79c60f194458",
+    "vehicle": {
+      "id": "1",
+      "price": 100.0,
+      "category": "Bus",
+      "brand": "Volkswagen",
+      "model": "T2",
+      "year": 1985,
+      "plate": "LU123",
+      "attributes": {
+        "seats": 20.0
+      }
+    },
+    "user": {
+      "id": "36bf40b1-5329-4c7d-b6ef-f1e7d01f1b3e",
+      "login": "admin",
+      "password": "$2a$10$/PLOh4vSoYUvxMquvcF7FefTRxA.aGsg0/QpRirYW6BFeHxfoFNMq",
+      "role": "ADMIN"
+    },
+    "rentDate": "2025-04-21T18:55:48.291579200",
+    "returnDate": "2025-04-21T19:07:01.933577100"
+  },
+  {
+    "id": "40f593cf-6b46-4042-bc77-e743fcb25057",
+    "vehicle": {
+      "id": "1",
+      "price": 100.0,
+      "category": "Bus",
+      "brand": "Volkswagen",
+      "model": "T2",
+      "year": 1985,
+      "plate": "LU123",
+      "attributes": {
+        "seats": 20.0
+      }
+    },
+    "user": {
+      "id": "36bf40b1-5329-4c7d-b6ef-f1e7d01f1b3e",
+      "login": "admin",
+      "password": "$2a$10$/PLOh4vSoYUvxMquvcF7FefTRxA.aGsg0/QpRirYW6BFeHxfoFNMq",
+      "role": "ADMIN"
+    },
+    "rentDate": "2025-04-21T19:07:06.500254100",
+    "returnDate": "2025-04-21T19:12:22.451753100"
+  },
+  {
+    "id": "05c783a1-1787-4560-8d4f-169577e91993",
+    "vehicle": {
+      "id": "1",
+      "price": 100.0,
+      "category": "Bus",
+      "brand": "Volkswagen",
+      "model": "T2",
+      "year": 1985,
+      "plate": "LU123",
+      "attributes": {
+        "seats": 20.0
+      }
+    },
+    "user": {
+      "id": "36bf40b1-5329-4c7d-b6ef-f1e7d01f1b3e",
+      "login": "admin",
+      "password": "$2a$10$/PLOh4vSoYUvxMquvcF7FefTRxA.aGsg0/QpRirYW6BFeHxfoFNMq",
+      "role": "ADMIN"
+    },
+    "rentDate": "2025-04-21T19:12:26.765653800",
+    "returnDate": "2025-04-21T19:35:43.961818400"
+  },
+  {
+    "id": "f41f647f-e081-45fb-b610-c36568e34b18",
+    "vehicle": {
+      "id": "1",
+      "price": 100.0,
+      "category": "Bus",
+      "brand": "Volkswagen",
+      "model": "T2",
+      "year": 1985,
+      "plate": "LU123",
+      "attributes": {
+        "seats": 20.0
+      }
+    },
+    "user": {
+      "id": "36bf40b1-5329-4c7d-b6ef-f1e7d01f1b3e",
+      "login": "admin",
+      "password": "$2a$10$/PLOh4vSoYUvxMquvcF7FefTRxA.aGsg0/QpRirYW6BFeHxfoFNMq",
+      "role": "ADMIN"
+    },
+    "rentDate": "2025-04-21T19:44:42.113640200",
+    "returnDate": null
+  },
+  {
+    "id": "712690d2-e6d1-402e-b9a7-be209a42a00c",
+    "vehicle": {
+      "id": "2",
+      "price": 200.0,
+      "category": "Motorcycle",
+      "brand": "Honda",
+      "model": "CBR600",
+      "year": 2016,
+      "plate": "LU456",
+      "attributes": {
+        "licence_category": "A",
+        "drive": "chain"
+      }
+    },
+    "user": {
+      "id": "36bf40b1-5329-4c7d-b6ef-f1e7d01f1b3e",
+      "login": "admin",
+      "password": "$2a$10$/PLOh4vSoYUvxMquvcF7FefTRxA.aGsg0/QpRirYW6BFeHxfoFNMq",
+      "role": "ADMIN"
+    },
+    "rentDate": "2025-04-21T19:47:10.342710800",
+    "returnDate": null
+  }
+]
